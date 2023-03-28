@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable etbg
+drawable ic_balance
+drawable ic_delete
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_send
+id etAmount
+id etMessage
+id imageView
+id ivDelete
+id ivSend
+id rvTransactions
+id textView
+id tvAmount
+id tvBalance
+id tvEmpty
+id tvMessage
+id tvSign
+layout activity_main
+layout custom_action_bar
+layout transaction_row_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Expensecalculator
+xml backup_rules
+xml data_extraction_rules
